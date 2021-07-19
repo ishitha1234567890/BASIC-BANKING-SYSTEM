@@ -1,6 +1,6 @@
 Basic Banking System Using PHP and MySQL
 
-Front-End : HTML,CSS and Bootstrap
-Back-End : JavaScript and PHP
+Front-End : HTML and CSS
+Back-End :  PHP
 Database : MySql(PHPMyAdmin)
 IDE : Visual Studio Code
