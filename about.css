@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://source.unsplash.com/featured/?{money},{bank}");
+background-size: cover;
+}
+.logo img {
+    display: flex;
+    float: left;
+    justify-content: left;
+    padding-left: 0px;
+    height: 50px;
+    width: 56px;
+    position: fixed;
+    top: 0vh;
+    left: 0vh;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-family: "Goblin One", cursive;
+    font-weight: bolder;
+    font-size: 59px;
+    padding-top: 16px;
+}
+h4{
+    color: black;
+    text-align: center;
+    font-family: "Goblin One", cursive;
+    font-size: 20px;
+
+}
+div{
+    font-family: "Goblin One", cursive;
+    font-size: 20px;
+    background-color: cadetblue;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 78%; 
+    border: solid black;
+    border-radius: 16px;
+    line-height: 19px;
+    padding-bottom:0px;
+    margin-bottom: 0%;
+}
+footer{
+    font-family: "Goblin One", cursive; ;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: blanchedalmond;
+    width:auto
+}

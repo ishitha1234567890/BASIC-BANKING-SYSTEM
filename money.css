@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Goblin+One&display=swap");
+
+
+body {
+  background-image: url("https://source.unsplash.com/featured/?{money},{bank}");
+  background-size: cover;
+}
+.logo img {
+  display: flex;
+  float: left;
+  justify-content: left;
+  padding-left: 0px;
+  height: 50px;
+  width: 56px;
+  position: fixed;
+  top: 0vh;
+  left: 0vh;
+}
+
+.logo img {
+  display: flex;
+  float: left;
+  justify-content: left;
+  padding-left: 0px;
+  height: 50px;
+  width: 56px;
+  position: fixed;
+  top: 0vh;
+  left: 0vh;
+}
+li{
+  height: 30px;
+  /* to make home,abou.. in a single line */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: flex-start;
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: "Carter One", cursive;
+}
+a{
+    padding-left: 13in;
+}
+.li a:hover{
+  color: rgb(13, 105, 105);
+  /* to remove underline as by default links have underline */
+  float: center;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bolder;
+  background-color: blanchedalmond;
+  border-style: outset;
+  border-radius: 23px;
+  
+}
+h1 {
+  color: black;
+  font-family: "Carter One", cursive;
+  font-size: 56px;
+  text-align: center;
+  padding: 5px;
+  margin-top: 70px;
+  height: 60px;
+  background-color: rgb(13, 105, 105);
+}
+h1 pre {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 36px
+}
+footer{
+  display: flex;
+  justify-content: center;
+  background-color: blanchedalmond;
+  width:auto;
+  margin-top: 139px;
+  text-align: center;
+  height: 20px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+form.tabletext{
+    display: flex;
+    justify-content: center;
+    height: 93px;
+}
+select.form-control{
+    height: 30px;
+    width: 2in;
+    font-weight: bold;
+}
+input.form-control{
+    height: 30px;
+    font-weight: bold;
+}
+div.container{
+    color: black;
+    font-family: "Carter One", cursive;
+    font-weight: bold;
+  border: solid black;
+  width: 1300px;;
+  word-wrap: normal;
+  height: 200px;
+  padding: 30px;
+  margin: 100px;
+  background-color: blanchedalmond;
+  
+}
+table{
+    height: 200px;
+  border: solid black;
+  padding: 10px; 
+  
+}
+table th{
+    width: 120px;
+    
+}
+table td{
+    width: 96px;
+    
+}
+td.py-2{
+    padding: 18px;
+}
